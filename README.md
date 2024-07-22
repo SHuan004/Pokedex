@@ -26,7 +26,7 @@ Asegúrate de tener instalado lo siguiente:
 
 1. Clona el repositorio:
    ```bash
-   git https://tu-url-del-repositorio](https://github.com/SHuan004/Pokedex.git
+   git clone https://github.com/SHuan004/Pokedex.git
    cd tu-directorio-del-proyecto
 
 2. Instala las dependencias:
