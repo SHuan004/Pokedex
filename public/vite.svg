@@ -1,0 +1,23 @@
+<svg
+    version="1.0"
+    id="Layer_1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 500 500"
+    enable-background="new 0 0 500 500"
+    xml:space="preserve"
+    width="32"
+    height="32"
+>
+    <circle fill="#FFFFFF" cx="250" cy="250" r="240" />
+    <path
+        fill="#EF5350"
+        d="M250,10c132.548,0,240,107.452,240,240H10C10,117.452,117.452,10,250,10z"
+    />
+    <path
+        fill="#212121"
+        d="M490,250c0,132.548-107.452,240-240,240S10,382.548,10,250H490z"
+    />
+    <circle fill="#FFFFFF" cx="250" cy="250" r="80" />
+    <circle fill="#212121" cx="250" cy="250" r="40" />
+</svg>
