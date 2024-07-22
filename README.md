@@ -26,13 +26,15 @@ Asegúrate de tener instalado lo siguiente:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://tu-url-del-repositorio
+   git https://tu-url-del-repositorio](https://github.com/SHuan004/Pokedex.git
    cd tu-directorio-del-proyecto
 
 2. Instala las dependencias:
+   ```bash
    npm install
    
-3. Ejecuta el servidor de desarrollo:
+4. Ejecuta el servidor de desarrollo:
+   ```bash
    npm run dev
 
 #POKEDEX
